@@ -1,0 +1,6 @@
+USE master;
+GO
+CREATE DATABASE SecureDB;
+GO
+USE SecureDB;
+GO
